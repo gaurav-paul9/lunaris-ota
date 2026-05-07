@@ -3,16 +3,21 @@
     {
       "maintainer": "Gaurav Paul",
       "oem": "OnePlus",
-      "device": "aston",
-      "filename": "Lunaris-AOSP-aston-UNOFFICIAL-3.9-GMS-2026050111.zip",
-      "download": "https://sourceforge.net/projects/lunaris/files/20260428/aston/Lunaris-AOSP-aston-Community-3.9-GMS-2026042813.zip/download",
-      "timestamp": 1770908014,
-      "md5": "bed0819f6ade2b129a7469562910a181",
-      "sha256": "5ea1dc92f1a443177f491b3cbca98e30d0d1407495a7e2f3de13e0f6d367e58a",
-      "size": 3005508788,
-      "version": "3.9",
+      "device": "aston",                                                                                                                                  "filename": "Lunaris-AOSP-aston-Community-3.10-GMS-2026050702.zip",
+      "download": "https://drive.serverhive.in/drive/tIkfmHX7VwhCEBRJzf6hifGS/aston/2026-05-07/Lunaris-AOSP-aston-Community-3.10-GMS-2026050702.zip",
+      "timestamp": 1778120436,                                                                                                                            "md5": "96b0cd884ebe763a5ea31c1fa45e7a5e",
+      "sha256": "ba4a77477e377b197abe7b2916fea6a50e9a05b24f442358f4ff96c79e31d402",
+      "size": 3647854509,                                                                                                                                 "version": "3.10",
       "buildtype": "user",
-      "telegram": "https://t.me/GauravPaul1",
+      "forum": "https://t.me/OnePlus12RGlobalChat",
+      "telegram": "https://t.me/@GauravPaul1",                                                                                                                                        "gapps": "",
+      "firmware": "",
+      "modem": "",                                                                                                                                        "bootloader": "",
+      "recovery": "",
+      "paypal": "paulgaurav9@ybl",                                                                                                                                       "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }
