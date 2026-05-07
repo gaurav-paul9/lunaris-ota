@@ -4,16 +4,25 @@
       "maintainer": "Gaurav Paul",
       "oem": "OnePlus",
       "device": "astonc",
-      "filename": "Lunaris-AOSP-aston-UNOFFICIAL-3.9-GMS-2026050111.zip",
-      "download": "https://sourceforge.net/projects/lunaris/files/20260428/astonc/Lunaris-AOSP-astonc-Community-3.9-GMS-2026042816.zip/download",
-      "timestamp": 1770908014,
-      "md5": "bed0819f6ade2b129a7469562910a181",
-      "sha256": "5ea1dc92f1a443177f491b3cbca98e30d0d1407495a7e2f3de13e0f6d367e58a",
-      "size": 3005508788,
-      "version": "3.9",
+      "filename": "Lunaris-AOSP-astonc-Community-3.10-GMS-2026050706.zip",
+      "download": "https://drive.serverhive.in/drive/tIkfmHX7VwhCEBRJzf6hifGS/astonc/2026-05-07/Lunaris-AOSP-astonc-Community-3.10-GMS-2026050706.zip",
+      "timestamp": 1778135627,
+      "md5": "5e71d7f53e6303813d1c36f45d80a96d",
+      "sha256": "0f71aea6326db1e4e08e7681104738736710c42a14b00d8df593f2c59df894dc",
+      "size": 3643964799,
+      "version": "3.10",
       "buildtype": "user",
+      "forum": "https://t.me/OnePlus12RGlobalChat",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
       "telegram": "https://t.me/GauravPaul1",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }
-
